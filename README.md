@@ -10,7 +10,7 @@ I inherited an [Anet A8 variant from Alunar. It was an A8 3D printer](https://an
 5. Added a PEI covered spring steel magnetic bed.
 6. Added a 12mm diameter 5V indcutive probe. That is wired into the Z endstop and works well.
 
-I'm using the stock Anet A8 Marlin configs with very few chanegs.
+I'm using the stock Anet A8 Marlin configs with very few changes.
 
 1. Removed SD card support. The SD card is inside the printed case and I print via the USB port.
 2. Enabled bed tramming in the LCD menu. This is one of my favorite Marlin built in options.
